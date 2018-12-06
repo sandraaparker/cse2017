@@ -1,0 +1,13 @@
+table, th, td {
+   border: 1px solid black;
+   margin: 25px 50px 75px 100px;
+   background-color: white;
+}
+
+.image{
+  text-align: center;
+}
+
+body{
+  background-color: lightgrey;
+}
